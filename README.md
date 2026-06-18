@@ -55,10 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MangalamMisra16&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalamMisra16&layout=compact" height="150" alt="languages graph" />
-</div>
 
 <h2 align="left">Let's connect</h2>
 
