@@ -11,13 +11,6 @@
 🎲 Fun fact: I organized a national-level CTF and helped run ACM India's Industry Day as PICT Cybercell Chairman
 </p>
 
-<h2 align="left">What I'm building</h2>
-
-<p align="left">
-🛡️ <b>Android Security App</b> — risk-scoring engine for 150+ Android permissions, served via a FastAPI backend<br>
-🔄 <b>Trust-Drift</b> — a continuous Zero-Trust scoring framework using Autoencoders + Isolation Forest to catch low-and-slow attacks<br>
-🚀 <b>DeploX</b> — a one-click deployment manager built on Redis job queues, Cloudflare APIs, and AWS (boto3)
-</p>
 
 <h2 align="left">I code with</h2>
 
@@ -54,6 +47,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MangalamMisra16&show_icons=true&locale=en&layout=compact" alt="MangalamMisra16" /></p>
 
 
 <h2 align="left">Let's connect</h2>
